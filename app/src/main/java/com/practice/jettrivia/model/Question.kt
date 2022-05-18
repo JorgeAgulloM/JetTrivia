@@ -1,0 +1,1 @@
+package com.practice.jettrivia.modelclass Question : ArrayList<QuestionItem>()
